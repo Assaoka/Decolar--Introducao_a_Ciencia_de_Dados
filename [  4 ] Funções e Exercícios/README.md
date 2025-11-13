@@ -1,16 +1,3 @@
----
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.18.1
-  kernelspec:
-    display_name: Python 3
-    name: python3
----
-
 <!-- #region id="view-in-github" colab_type="text" -->
 <a href="https://colab.research.google.com/github/Assaoka/Decolar--Introducao_a_Ciencia_de_Dados/blob/main/%5B%204%20%5D%20Fun%C3%A7%C3%B5es%20e%20Exerc%C3%ADcios/Fun%C3%A7%C3%B5es%20e%20Exerc%C3%ADcios.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <!-- #endregion -->

@@ -1,17 +1,3 @@
----
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.18.1
-  kernelspec:
-    display_name: Python 3
-    language: python
-    name: python3
----
-
 <!-- #region id="view-in-github" colab_type="text" -->
 <a href="https://colab.research.google.com/github/Assaoka/Decolar--Introducao_a_Ciencia_de_Dados/blob/main/%5B%20%205%20%5D%20M%C3%B3dulos%20e%20Introdu%C3%A7%C3%A3o%20ao%20Pandas/M%C3%B3dulos%20e%20Introdu%C3%A7%C3%A3o%20ao%20Pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <!-- #endregion -->

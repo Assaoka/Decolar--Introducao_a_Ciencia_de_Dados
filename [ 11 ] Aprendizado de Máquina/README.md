@@ -1,18 +1,3 @@
----
-jupyter:
-  jupytext:
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.18.1
-  kernelspec:
-    display_name: Python 3
-    language: python
-    name: python3
----
-
-<!-- #region -->
 # Aula 11: Introdução ao Aprendizado de Máquina (AM)
 
 Até agora, nós aprendemos a carregar, limpar, analisar e visualizar dados. Hoje, vamos dar o próximo passo: usar os dados para fazer **previsões**. Vamos começar nossa jornada para nos tornarmos assistentes de Ciência de Dados do Professor Carvalho!
