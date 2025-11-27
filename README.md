@@ -6,6 +6,8 @@
   Este repositório contém todos os materiais, notebooks e slides do curso de Introdução à Ciência de Dados.
 </p>
 
+https://docs.google.com/forms/d/e/1FAIpQLScJiD3SLKWuvx4z-WNqQVtWBk9JF1ASdaToB4sSdlUtIVfp_A/viewform?pli=1
+
 
 # 🎓 Aulas:
 
